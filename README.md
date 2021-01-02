@@ -8,6 +8,6 @@ This might be usefull in some special usecases where having the password in the 
 
 __NOTE:__ If you have other post-processing scripts running, this extension script should probably be the last post-processing script to run
 
-__NOTE:__ This script requires Python to be installed on the system running NZBGet.
+__NOTE:__ This script requires Python 3.x to be installed on the system running NZBGet.
 
 See the [NZBGet documentation](https://nzbget.net/extension-scripts) for information on how to install extension scripts for NZBGet.
